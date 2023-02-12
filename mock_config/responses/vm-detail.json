@@ -1,0 +1,12 @@
+{
+    "id": "=uuid",
+    "status": "=enum|Running,Stopped,Unknown",
+    "availability": "=enum|Yes,No",
+    "memory": "=int|4",
+    "events": "=array|event|5",
+    "event": {
+        "action": "=enum|Start,Stop,Reboot",
+        "date": "=date"
+    },
+    "cpu": 1
+}

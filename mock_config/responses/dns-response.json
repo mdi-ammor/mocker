@@ -1,0 +1,14 @@
+{
+    "name": "test_cname.fr.intranet",
+    "canonical": "test.fr.intranet",
+    "extattrs": {
+        "iua": {
+            "value": "ALW"
+        },
+        "environment": {
+            "value": "test"
+        }
+    },
+    "ttl": 300,
+    "comment": "Some test"
+}

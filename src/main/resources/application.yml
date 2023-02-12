@@ -1,0 +1,9 @@
+mock:
+  config:
+    path: ${mock.config.path}
+logging:
+  level:
+    root: ERROR
+    org:
+      springframework:
+        web: ERROR

@@ -1,0 +1,6 @@
+{
+  "endpoints": [
+    { "path": "?name=example", "method": "GET", "mode": "CUSTOM", "httpCode": 200, "responseJson": "get-vm-details.json"},
+    { "path": "/v1/vcenter/conf", "method": "GET", "mode": "SIMPLE", "httpCode": 200, "responseJson": "vcenter-conf.json" }
+   ]
+}

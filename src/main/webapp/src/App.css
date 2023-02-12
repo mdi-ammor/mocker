@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Kalam';
+    src: url('./fonts/Kalam.ttf');
+}
+@font-face {
+  font-family: 'Acme';
+  src: url('./fonts/Acme.ttf');
+}
+
+.App {
+  text-align: center;
+  font-family: Kalam;
+}
+
+.App-header {
+  font-family: Kalam;
+  background-color: #282c34;
+  min-height: 2.5em;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  justify-content: center;
+  font-size: 1.4em;
+  color: white;
+  padding-left: 1em;
+}

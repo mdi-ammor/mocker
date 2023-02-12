@@ -1,0 +1,9 @@
+#alert-dialog-title {
+    font-family: Kalam;
+    color: #0b750b;
+}
+
+#alert-dialog-description,
+#alert-dialog-button {
+    font-family: Acme;
+}

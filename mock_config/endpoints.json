@@ -1,0 +1,7 @@
+{"endpoints":
+[
+    {"path":"/vcenter/vm","method":"GET","mode":"CUSTOM","httpCode":200,"responseJson":"vm-detail.json"},
+    {"path":"/vcenter/conf","method":"GET","mode":"CUSTOM","httpCode":200,"responseJson":"vcenter-conf.json"},
+    {"path":"/dns/example","method":"GET","mode":"SIMPLE","httpCode":200,"responseJson":"dns-response.json"}
+]
+}
